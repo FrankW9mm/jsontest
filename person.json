@@ -1,0 +1,36 @@
+{
+    "users": [
+        {
+            "name":"tina",
+            "age":24,
+            "job":"Streamer",
+            "id":"0-234",
+            "log_in":true,
+            "alcohol": false
+        },
+        {
+            "name":"john",
+            "age":24,
+            "job":"Junior SE DEV",
+            "id":"0-234",
+            "log_in":false,
+            "alcohol": true
+        },
+        {
+            "name":"wheeler",
+            "age":24,
+            "job":"Chef",
+            "id":"0-234",
+            "log_in":true,
+            "alcohol": false
+        },
+        {
+            "name":"Austin",
+            "age":24,
+            "job":"Senior Dev",
+            "id":"0-234",
+            "log_in":false,
+            "alcohol": false
+        }
+    ]
+}
